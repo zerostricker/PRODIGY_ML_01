@@ -15,12 +15,12 @@ The dataset includes various features related to house properties such as square
 4. Visualization
 
 ## Requirements
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-jupyter
+1. pandas
+2. numpy
+3. seaborn
+4. matplotlib
+5. scikit-learn
+6. jupyter
 
 ## Results
 The model achieved an R-squared value of 0.63 and a mean squared error of 2,806,426,667.25 on the test data.
