@@ -25,11 +25,5 @@ The dataset includes various features related to house properties such as square
 ## Results
 The model achieved an R-squared value of 0.63 and a mean squared error of 2,806,426,667.25 on the test data.
 
-## How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/house-pricing-prediction.git`
-2. Navigate to the project directory: `cd house-pricing-prediction`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the Jupyter Notebook: `jupyter notebook notebooks/house_pricing_prediction.ipynb`
-
 ## Conclusion
 The linear regression model provided reasonable predictions for house prices. Further improvements could include additional feature engineering and exploring other machine learning models.
